@@ -1,0 +1,34 @@
+{
+  "main": {
+    "name":"Raxit Naik",
+    "occupation":"Software Developer",
+    "description":"I'm a proficient Java Developer / Data Engineer, I spend my work days with Java micro service architecture & Cloud Data Technologies. I have a knack of python scripting and shell script. I am constantly learning new technologies and other design related topics. An alumnus of NMIMS, I was molded to be an extraordinary blend of leadership, research, creative problem-solving skills and out of the box thinking. These skill sets are what aids me in solving problems, which to me, are often intrinsically fun to tackle. I thrive to make a contributor role in team where I use my team leadership skills, take responsibilities, work on multifaceted projects, and gain experience with architecture and project management.",
+    "image":"Artboard 2.png",
+    "bio":"Hope the portfolio has been insightful till now. I'm an extrovert pretending to be an introvert when the situation demands! Curious by nature, I'm always trying to explore new activities and finding out the unknown, because whats not know to you is not know. A part of this thirst for curiosity has led me on a quest to discover new music genres, exploring new destinations, acquiring taste for different drinks and food! Also an Overthinker, I'd like to debate that it is a two way street, opens up new prespective to think about. (Now you have something to think about too!)",
+    "email": "raxit20@gmail.com",
+    "address":{
+      "street":"",
+      "city":"Mumbai",
+      "state":"Maharashtra",
+      "zip": "IN"
+    },
+    "website": "http://www.raxitnaik.me",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/raxitn",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/raxit-naik-6b8756a2/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/raxit.naik",
+        "className":"fa fa-instagram"
+      }
+    ]
+  }
+}
